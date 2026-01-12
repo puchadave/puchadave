@@ -1,24 +1,42 @@
-# Hi, I'm David | Strategic Management Consultant 🚀
+# Hi, I'm David | Systemarchitekt 🛠️
 
-I build autonomous intelligence systems that turn data into market dominance. My background at **Sky Deutschland** taught me the power of *Simplifying* – a principle I now scale through AI.
-
-### 🛠 Tech Stack & Expertise
-- **AI/ML:** Ollama, Local LLM Integration (Llama3, Mistral)
-- **Intelligence:** OSINT (Open Source Intelligence), HUMINT (Behavioral Profiling)
-- **Business:** Strategy Auditing, Financial Leakage Analysis, Process Optimization
-- **Code:** Python, Automation-Grids, Tactical Dashboards
-
-### 🛡 Featured Project: webOwie
-**webOwie** is my flagship local intelligence engine. It’s a Quad-Core system designed for high-level management consulting:
-- **Scout:** Automated HGB & IT auditing.
-- **Psycho:** Cognitive profiling for decision-makers.
-- **Liquidator:** Identifying financial discrepancies.
-- **Architect:** Conversion-optimized strategic planning.
-
-
-
-### 📈 Stats & Contributions
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=puchadave&show_icons=true&theme=dark)
+Ich entwerfe und implementiere autonome Intelligence-Systeme, die strategische Unternehmensentscheidungen auf Datenbasis revolutionieren. Meine Expertise als Systemarchitekt bei **puchalla.pro** basiert auf radikaler Effizienz und technologischer Dominanz.
 
 ---
-**Let's connect:** [LinkedIn](https://likedin.com/in/davidpuchalla) | Strategic Audits | Process Scaling
+
+### 🛡️ Meine Spezialgebiete
+
+| **Fokusbereich** | **Kernkompetenz** |
+| :---------------------- | :------------------------------------------------ |
+| **System-Architektur** | Hochleistungs- & Skalierbare AI-Infrastrukturen    |
+| **AI & Machine Learning** | Lokale LLM-Integration (Ollama), Neuronale Netze   |
+| **Intelligence** | OSINT (Open Source), HUMINT (Verhaltensanalyse)  |
+| **Strategie & Audit** | Finanzdaten-Audits, Compliance, Prozessoptimierung |
+
+---
+
+### ✨ Ausgewählte Projekte
+
+**webOwie – Lokal. Intelligent. Dominanz.**
+[![webOwie Logo](https://raw.githubusercontent.com/dein-user/webOwie/main/logo.png)](https://github.com/dein-user/webOwie) > Meine Flaggschiff-Intelligence-Engine: Ein Quad-Core System für präzise, lokale Datenanalyse. Jeder Agent – von OSINT-Scouts bis zum Conversion Architect – arbeitet autonom für maximale strategische Hebelwirkung.
+> [➡️ Zum webOwie Repository](https://github.com/dein-user/webOwie)
+
+---
+
+### 📈 GitHub Stats & Badges
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puchadave&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puchadave&theme=dark)](https://git.io/streak-stats)
+[![Total Contributions](https://img.shields.io/github/total-contributions/puchadave?style=flat-square&color=blue)](https://github.com/puchadave)
+[![Followers](https://img.shields.io/github/followers/puchadave?style=social)](https://github.com/puchadave?tab=followers)
+
+---
+
+### 🌐 Let's Connect
+
+* [LinkedIn: David [Puchalla]](https://linkedin.com/in/davidpuchalla)
+* [puchalla.pro: Meine Strategische Unternehemsberatung](https://puchalla.pro/)
+* [Email: david@puchalla.email](mailto:david@puchalla.email)
+
+---
+*Built with precision and a vision for future-proof intelligence.*
