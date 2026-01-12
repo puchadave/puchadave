@@ -21,4 +21,4 @@ I build autonomous intelligence systems that turn data into market dominance. My
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=puchadave&show_icons=true&theme=dark)
 
 ---
-**Let's connect:** [LinkedIn](likedin.com/in/davidpuchalla) | Strategic Audits | Process Scaling
+**Let's connect:** [LinkedIn](https://likedin.com/in/davidpuchalla) | Strategic Audits | Process Scaling
