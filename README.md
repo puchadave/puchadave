@@ -1,42 +1,47 @@
-# Hi, I'm David | Systemarchitekt 🛠️
+# David Puchalla
 
-Ich entwerfe und implementiere autonome Intelligence-Systeme, die strategische Unternehmensentscheidungen auf Datenbasis revolutionieren. Meine Expertise als Systemarchitekt bei **puchalla.pro** basiert auf radikaler Effizienz und technologischer Dominanz.
+**Systemarchitekt · Strategic Technology Consultant · OSINT / DFIR Engineering**
 
----
+Ich entwickle lokale, datenschutzorientierte Systeme für **AI-Orchestrierung, OSINT, digitale Forensik, Automatisierung und belastbare Entscheidungsunterstützung**. Mein Schwerpunkt liegt auf modularen Architekturen, nachvollziehbaren Datenflüssen und Lösungen, die auch ohne unnötige Cloud-Abhängigkeit funktionieren.
 
-### 🛡️ Meine Spezialgebiete
+## Schwerpunkte
 
-| **Fokusbereich** | **Kernkompetenz** |
-| :---------------------- | :------------------------------------------------ |
-| **System-Architektur** | Hochleistungs- & Skalierbare AI-Infrastrukturen    |
-| **AI & Machine Learning** | Lokale LLM-Integration (Ollama), Neuronale Netze   |
-| **Intelligence** | OSINT (Open Source), HUMINT (Verhaltensanalyse)  |
-| **Strategie & Audit** | Finanzdaten-Audits, Compliance, Prozessoptimierung |
+- **Systemarchitektur:** Docker, Linux, API-Integration, Reverse Proxies, Self-Hosting
+- **Lokale AI:** llama.cpp, Ollama, vLLM, RAG, Agenten-Orchestrierung
+- **OSINT & DFIR:** Recherche-Pipelines, Quellenaggregation, Beweissicherung, Analyse-Dashboards
+- **Automation:** Python, Bash, REST APIs, CI/CD, Workflow-Integration
+- **Strategie & Governance:** technische Audits, Prozessdesign, Datenschutz und Resilienz
 
----
+## Aktuelle Projekte
 
-### ✨ Ausgewählte Projekte
+### [webOwie](https://github.com/puchadave/webOwie)
+Lokale Intelligence- und Automatisierungsplattform zur Verbindung von Recherche, Analyse, Agenten und operativen Workflows.
 
-**webOwie – Lokal. Intelligent. Dominanz.**
-[![webOwie Logo](https://raw.githubusercontent.com/dein-user/webOwie/main/logo.png)](https://github.com/dein-user/webOwie) > Meine Flaggschiff-Intelligence-Engine: Ein Quad-Core System für präzise, lokale Datenanalyse. Jeder Agent – von OSINT-Scouts bis zum Conversion Architect – arbeitet autonom für maximale strategische Hebelwirkung.
-> [➡️ Zum webOwie Repository](https://github.com/dein-user/webOwie)
+### [HERMES DFIR OS](https://github.com/puchadave/HERMES-DFIR_OS)
+Konzept für eine spezialisierte Linux-Arbeitsumgebung für digitale Forensik, OSINT und Incident Response.
 
----
+### [HERMES Intelligence Platform Architecture](https://github.com/puchadave/HERMES-Inteligence-Platform-Architektur)
+Architekturentwurf für modulare Intelligence-Dienste, lokale Modelle und automatisierte Analyseketten.
 
-### 📈 GitHub Stats & Badges
+### [Centralized Social Media OSINT Manager](https://github.com/puchadave/crentralizied-Social-Media-OSINT-Manger)
+Zentraler Ansatz zur strukturierten Verwaltung und Auswertung öffentlich zugänglicher Social-Media-Quellen.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puchadave&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puchadave&theme=dark)](https://git.io/streak-stats)
-[![Total Contributions](https://img.shields.io/github/total-contributions/puchadave?style=flat-square&color=blue)](https://github.com/puchadave)
-[![Followers](https://img.shields.io/github/followers/puchadave?style=social)](https://github.com/puchadave?tab=followers)
+## Technischer Fokus
 
----
+`Linux` · `Docker` · `Python` · `Bash` · `FastAPI` · `REST` · `SearXNG` · `llama.cpp` · `Ollama` · `vLLM` · `OSINT` · `DFIR` · `Self-Hosting`
 
-### 🌐 Let's Connect
+## Grundsätze
 
-* [LinkedIn: David [Puchalla]](https://linkedin.com/in/davidpuchalla)
-* [puchalla.pro: Meine Strategische Unternehemsberatung](https://puchalla.pro/)
-* [Email: david@puchalla.email](mailto:david@puchalla.email)
+- Local-first, sofern technisch sinnvoll
+- Datenschutz durch Architektur statt nachträglicher Kosmetik
+- Nachvollziehbare Quellen und reproduzierbare Ergebnisse
+- Automatisierung nur mit klaren Kontrollpunkten
+- Sicherheitsforschung innerhalb rechtlicher und ethischer Grenzen
 
----
-*Built with precision and a vision for future-proof intelligence.*
+## Kontakt
+
+- Website: [puchalla.pro](https://puchalla.pro)
+- Profil und Lebenslauf: [puchalla.me](https://puchalla.me)
+- Zertifikate: [zertifikate.puchalla.me](https://zertifikate.puchalla.me)
+- LinkedIn: [linkedin.com/in/davidpuchalla](https://www.linkedin.com/in/davidpuchalla/)
+- E-Mail: [admin@puchalla.email](mailto:admin@puchalla.email)
