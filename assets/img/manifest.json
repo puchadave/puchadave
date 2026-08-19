@@ -1,0 +1,207 @@
+{
+  "package": "webOwie Corporate Design Static Assets",
+  "root": "assets/img",
+  "brands": {
+    "webOwie": {
+      "type": "parent brand",
+      "subbrands": [
+        "nodeOS",
+        "search"
+      ]
+    },
+    "puchalla.pro": {
+      "type": "partner / architecture brand",
+      "subbrands": []
+    },
+    "bnd.zone": {
+      "type": "security / intelligence brand",
+      "subbrands": [
+        "cybersicherheit"
+      ]
+    }
+  },
+  "assets": [
+    {
+      "path": "bnd.zone/corporate/logos/png/bnd.zone_horizontal.png",
+      "url": "./bnd.zone/corporate/logos/png/bnd.zone_horizontal.png",
+      "size": 34812,
+      "sha256": "9d3de794720874b43c098668b0d12a31f75c5d4fbb463b5b92c9d44e8a62973b",
+      "mime": "image/png"
+    },
+    {
+      "path": "bnd.zone/corporate/logos/png/bnd.zone_primary_dark.png",
+      "url": "./bnd.zone/corporate/logos/png/bnd.zone_primary_dark.png",
+      "size": 23915,
+      "sha256": "842e0c0d835aaa331a63b6558c63c1e4da3c59bf561e0f2a6fd0941c8421e780",
+      "mime": "image/png"
+    },
+    {
+      "path": "bnd.zone/subbrands/README.txt",
+      "url": "./bnd.zone/subbrands/README.txt",
+      "size": 59,
+      "sha256": "a0d6d4909e3862f410aeaf7cb44969e99261b0439d7ba86fcd12d8277b10ab16",
+      "mime": "text/plain"
+    },
+    {
+      "path": "bnd.zone/subbrands/cybersicherheit/logos/png/bnd.zone_cybersicherheit.png",
+      "url": "./bnd.zone/subbrands/cybersicherheit/logos/png/bnd.zone_cybersicherheit.png",
+      "size": 30881,
+      "sha256": "6516cc3beb01c0cdcc08ffd92cd428aada3301c1fd98409092c42058785062cf",
+      "mime": "image/png"
+    },
+    {
+      "path": "puchalla.pro/corporate/logos/svg/puchalla.pro_primary.svg",
+      "url": "./puchalla.pro/corporate/logos/svg/puchalla.pro_primary.svg",
+      "size": 9131,
+      "sha256": "bc14037d76797ae11e3fb3e9f4edaeabf5b02c7391c3d4604ba54c1e9ac3168d",
+      "mime": "image/svg+xml"
+    },
+    {
+      "path": "puchalla.pro/partnerships/webOwie/webOwie_x_puchalla.pro_lockup.png",
+      "url": "./puchalla.pro/partnerships/webOwie/webOwie_x_puchalla.pro_lockup.png",
+      "size": 38376,
+      "sha256": "6feccdb43019934470b125d2e7af161cf46cab44fc6a86e34b538a5228e36e5d",
+      "mime": "image/png"
+    },
+    {
+      "path": "puchalla.pro/subbrands/README.txt",
+      "url": "./puchalla.pro/subbrands/README.txt",
+      "size": 57,
+      "sha256": "2e48f56013345a7dad570b7efc5152ce203be65af47150d2b0b49d7e7c51f0ba",
+      "mime": "text/plain"
+    },
+    {
+      "path": "webOwie/corporate/brand-guidelines/webOwie_corporate-design.png",
+      "url": "./webOwie/corporate/brand-guidelines/webOwie_corporate-design.png",
+      "size": 1031320,
+      "sha256": "ed9a39d25c8f6cd2d217df35bec571f6fd9143b39a77ad057ddec762f997f708",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/corporate/brand-guidelines/webOwie_logo-guidelines.png",
+      "url": "./webOwie/corporate/brand-guidelines/webOwie_logo-guidelines.png",
+      "size": 1295444,
+      "sha256": "376741cbdc6a34887d8e185c7d2198faf97581d72e8d5e489895d36ca80d9f0a",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/corporate/partnerships/puchalla.pro/webOwie_x_puchalla.pro_lockup.png",
+      "url": "./webOwie/corporate/partnerships/puchalla.pro/webOwie_x_puchalla.pro_lockup.png",
+      "size": 38376,
+      "sha256": "6feccdb43019934470b125d2e7af161cf46cab44fc6a86e34b538a5228e36e5d",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/README.txt",
+      "url": "./webOwie/subbrands/nodeOS/README.txt",
+      "size": 207,
+      "sha256": "09688b6db6104e76491c9c623b85726dff563d847f82ca48b4d5b19a3607cc1a",
+      "mime": "text/plain"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/packages/webOwie_nodeOS_Logos_Updated.zip",
+      "url": "./webOwie/subbrands/nodeOS/packages/webOwie_nodeOS_Logos_Updated.zip",
+      "size": 71093,
+      "sha256": "a6f7927d927ce8129fb416fcabd685f36efed323075433043e7d6c90fb1f7854",
+      "mime": "application/zip"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_avatar.svg",
+      "url": "./webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_avatar.svg",
+      "size": 1480,
+      "sha256": "a72fe491998583e92fa81ae6837f05ad8987bcd1ec1641ae7965de196b4710a0",
+      "mime": "image/svg+xml"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_horizontal.svg",
+      "url": "./webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_horizontal.svg",
+      "size": 1443,
+      "sha256": "63ba5dde06c4981001ffa8c2fd47e5408b6211974e7c5fcda74d18436a70bd78",
+      "mime": "image/svg+xml"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_icon.svg",
+      "url": "./webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_icon.svg",
+      "size": 1369,
+      "sha256": "d31de520f3726d7aa0831f9bd55906b42f82e5ee12e0df4e1b5e2b19a04ba4b6",
+      "mime": "image/svg+xml"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_primary.svg",
+      "url": "./webOwie/subbrands/nodeOS/svg/webOwie_nodeOS_primary.svg",
+      "size": 1591,
+      "sha256": "6176663de0970cefe5862c3917847abcb474e1ff9926cdd15e8a6aaf9ecfa62e",
+      "mime": "image/svg+xml"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/web/apple-touch-icon.png",
+      "url": "./webOwie/subbrands/nodeOS/web/apple-touch-icon.png",
+      "size": 17012,
+      "sha256": "4b5a21d336ec0381629f73235c3bb13cc13b2d7cdcf76b083d22c8b3f026d681",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/web/favicon.ico",
+      "url": "./webOwie/subbrands/nodeOS/web/favicon.ico",
+      "size": 4075,
+      "sha256": "e58297a3fa1f6d838fd77d9424a08b7bbc7b123bdfbfe218149af468fe9b3204",
+      "mime": "image/vnd.microsoft.icon"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/web/icon-192.png",
+      "url": "./webOwie/subbrands/nodeOS/web/icon-192.png",
+      "size": 12239,
+      "sha256": "24f4f04c5be4c27c7804f85802f17d88ef451d11ee1c7e7db2515f78758ec6c7",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/nodeOS/web/icon-512.png",
+      "url": "./webOwie/subbrands/nodeOS/web/icon-512.png",
+      "size": 39760,
+      "sha256": "704fd77afb01c85d20986d25a44b08d1d108794790fa1d3bee420345e8586808",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/search/README.txt",
+      "url": "./webOwie/subbrands/search/README.txt",
+      "size": 74,
+      "sha256": "fbe987a95663ea54c9e599ac6827744969b3260701a0d893c74410649f10bd91",
+      "mime": "text/plain"
+    },
+    {
+      "path": "webOwie/subbrands/search/brand-guidelines/search_webOwie_logo-guidelines.png",
+      "url": "./webOwie/subbrands/search/brand-guidelines/search_webOwie_logo-guidelines.png",
+      "size": 899786,
+      "sha256": "ccd53f2e4b7aac230c59bfd4f233e9b4622128c5663f96a0bd77f299f38c13cf",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/search/logos/png/search_webOwie_horizontal_dark.png",
+      "url": "./webOwie/subbrands/search/logos/png/search_webOwie_horizontal_dark.png",
+      "size": 173603,
+      "sha256": "957c1edc111ad8d454ff97643afd762a7a5c0146ae9957c6eba3af0c7bd31874",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/search/logos/png/search_webOwie_horizontal_transparent.png",
+      "url": "./webOwie/subbrands/search/logos/png/search_webOwie_horizontal_transparent.png",
+      "size": 103006,
+      "sha256": "c87aa70de02c9a424f55d838bb50b03f66bce57b0d4aeec2c7e08ad712206ae5",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/search/logos/png/search_webOwie_stacked.png",
+      "url": "./webOwie/subbrands/search/logos/png/search_webOwie_stacked.png",
+      "size": 183894,
+      "sha256": "7177f666b8077e5a315865527702b8d863780166d038c279954d28e53e75029d",
+      "mime": "image/png"
+    },
+    {
+      "path": "webOwie/subbrands/search/logos/svg/search_webOwie_stacked.svg",
+      "url": "./webOwie/subbrands/search/logos/svg/search_webOwie_stacked.svg",
+      "size": 124560,
+      "sha256": "2612547f75dc18d43297dac06cd99a89a4cecb60c9240f02c5b7cb010d704161",
+      "mime": "image/svg+xml"
+    }
+  ]
+}
